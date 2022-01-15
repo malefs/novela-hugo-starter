@@ -7,8 +7,6 @@ sections:
 - type: document
   path: content/info.md
   label: Info
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: document
